@@ -80,5 +80,7 @@ python KNNmatching.py --input images/
 <img src="https://github.com/noorkhokhar99/live-Sketch/blob/main/channels4_profile.jpeg" data-canonical-src="https://github.com/noorkhokhar99/live-Sketch/blob/main/channels4_profile.jpeg" width="300" height="300" />
 
 
-[<img src="[https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%](https://github.com/noorkhokhar99/live-Sketch/blob/main/channels4_profile.jpeg)">](https://www.youtube.com/c/pyresearch"PyReasearch")
+[![Now in Pyresearch:]          // Title
+(https://github.com/noorkhokhar99/live-Sketch/blob/main/channels4_profile.jpeg)] // Thumbnail
+(https://www.youtube.com/c/Pyresearch/videos "Now in Pyresearch: 55")    // Video Link
 
