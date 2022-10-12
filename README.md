@@ -77,10 +77,9 @@ python KNNmatching.py --input images/
 **RESULS**
 
 
+![](https://github.com/noorkhokhar99/live-Sketch/blob/main/channels4_profile.jpeg) | ![](https://www.youtube.com/c/Pyresearch/videos)
 
 
 
-[![Now in Pyresearch:]          // Title
-(https://github.com/noorkhokhar99/live-Sketch/blob/main/channels4_profile.jpeg)] // Thumbnail
-(https://www.youtube.com/c/Pyresearch/videos "Now in Pyresearch: 55")    // Video Link
+
 
