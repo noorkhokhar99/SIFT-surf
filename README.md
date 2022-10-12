@@ -77,7 +77,7 @@ python KNNmatching.py --input images/
 **RESULS**
 
 
-<img src="https://github.com/noorkhokhar99/live-Sketch/blob/main/channels4_profile.jpeg" data-canonical-src="https://github.com/noorkhokhar99/live-Sketch/blob/main/channels4_profile.jpeg" width="300" height="300" />
+
 
 
 [![Now in Pyresearch:]          // Title
