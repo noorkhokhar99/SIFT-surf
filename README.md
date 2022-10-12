@@ -20,7 +20,7 @@
  
  **RESULTS**
  
-![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-5/images/cornerHarris.jpg)
+![](https://github.com/noorkhokhar99/SIFT-surf/blob/main/images/cornerHarris.jpg)
 
 
 ## Feature extraction and description using DOG and SIFT
@@ -32,7 +32,7 @@ python SIFT.py --input images/
 
 **RESULTS**
 
-![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-5/images/SIFT.jpg)
+![](https://github.com/noorkhokhar99/SIFT-surf/blob/main/images/SIFT.jpg)
 
 
 ## Feature extraction and description using Fast Hessian and SURF
@@ -49,7 +49,7 @@ python SURF.py --input images/ --algorithm SURF
 
 Original | SURF | SIFT 
 ---------|-------|------
-![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-5/images/city2.jpg) | ![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-5/images/detected-SURF.jpg) | ![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-5/images/detected-SIFT.jpg)
+![](https://github.com/noorkhokhar99/SIFT-surf/blob/main/images/city2.jpg) | ![](https://github.com/noorkhokhar99/SIFT-surf/blob/main/images/detected-SURF.jpg) | ![](https://github.com/noorkhokhar99/SIFT-surf/blob/main/images/detected-SIFT.jpg)
 
 
 ## Feature matching using ORB (Oriented FAST and Rotated BRIEF)
@@ -63,7 +63,7 @@ python ORB.py --input images/
 
 Image-1 | Image-2 | Feature Match
 --------|---------|--------------
-![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-5/images/Breaking%20Bad.jpg) | ![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-5/images/Breaking%20Bad-2.jpg) | ![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-5/images/ORB.jpg)
+![](https://github.com/noorkhokhar99/SIFT-surf/blob/main/images/Breaking%20Bad.jpg) | ![](https://github.com/noorkhokhar99/SIFT-surf/blob/main/images/Breaking%20Bad-2.jpg) | ![](https://github.com/noorkhokhar99/SIFT-surf/blob/main/images/ORB.jpg)
 
 
 ## Feature matching using KNN
@@ -76,4 +76,4 @@ python KNNmatching.py --input images/
 
 **RESULS**
 
-![](https://github.com/arpitj07/OpenCV-with-Python/blob/master/Project-5/images/KNN.gif)
+![]()
